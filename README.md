@@ -1,7 +1,7 @@
-## Bienvenidos a RaeVs
+# Bienvenidos a RaeVs
 
-### Integrantes
+## Integrantes
 
-Hameth Abdhala Assaf Carrascal
-Ana Beatriz Mojica Bohorquez
-Ana Maria Hernandez Jaimes
+### Hameth Abdhala Assaf Carrascal
+### Ana Beatriz Mojica Bohorquez
+### Ana Maria Hernandez Jaimes
